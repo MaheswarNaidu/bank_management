@@ -1,0 +1,24 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:Century Gothic;
+}
+ul{
+	float:right;
+	list-style-type:none;
+	margin-top:15px;
+}
+ul li{
+	display:inline-block;
+}
+ul li a{
+	text-decoration:none;
+	color:black;
+	padding:5px20px;
+	border:1px solid;
+	transition:0.9s ease;
+}
+ul li a:hover{
+	background-color:powderblue;
+	color:black;
+}
